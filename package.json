@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://gitlab.com/github.com/oganov2001/natours-css-course/issues"
   },
-  "homepage": "https://gitlab.com/github.com/oganov2001/natours-css-course#readme"
+  "homepage": "https://gitlab.com/github.com/oganov2001/natours-css-course#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
 }
