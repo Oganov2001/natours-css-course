@@ -1,0 +1,24 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/github.com/oganov2001/natours-css-course.git"
+  },
+  "keywords": [
+    "natours",
+    "css",
+    "html"
+  ],
+  "author": "oganov2001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/github.com/oganov2001/natours-css-course/issues"
+  },
+  "homepage": "https://gitlab.com/github.com/oganov2001/natours-css-course#readme"
+}
